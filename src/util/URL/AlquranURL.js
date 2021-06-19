@@ -1,0 +1,1 @@
+export const AlquranUrl='https://api.quran.sutanlab.id/surah/1/1';
